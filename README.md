@@ -1,2 +1,2 @@
 # UnitTest_Jest
-Unit Testing using Jest.
+Simple Unit Testing example using Jest.
